@@ -1,0 +1,4 @@
+A Sequence wise tasks of 
+html(10 tasks)
+css(10 tasks)
+bootsrap(2 tasks)
